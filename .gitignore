@@ -1,0 +1,11 @@
+# uv
+.venv/
+uv.lock
+*.toml
+
+# OS
+.DS_Store
+.DS_Store?
+
+# pyenv
+.python-version
