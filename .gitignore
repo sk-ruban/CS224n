@@ -9,3 +9,7 @@ uv.lock
 
 # pyenv
 .python-version
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
